@@ -6,7 +6,7 @@ print()
 print("vous etes actuelment dans un générateur de nombre !!!")
 print()
 
-whil party == "oui" :
+while party == "oui":
 
     print("choisisser 2 nombre :")
     print()
